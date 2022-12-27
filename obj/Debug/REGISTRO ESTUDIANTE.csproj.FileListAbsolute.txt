@@ -1,0 +1,33 @@
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\REGISTRO ESTUDIANTE.exe.config
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\REGISTRO ESTUDIANTE.exe
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\REGISTRO ESTUDIANTE.pdb
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\obj\Debug\REGISTRO ESTUDIANTE.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\obj\Debug\REGISTRO_ESTUDIANTE.Properties.Resources.resources
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\obj\Debug\REGISTRO ESTUDIANTE.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\obj\Debug\REGISTRO ESTUDIANTE.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\obj\Debug\REGISTRO ESTUDIANTE.exe
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\obj\Debug\REGISTRO ESTUDIANTE.pdb
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\obj\Debug\REGISTRO ESTUDIANTE.csproj.CopyComplete
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\obj\Debug\REGISTRO_ESTUDIANTE.REGISTRO.resources
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\obj\Debug\REGISTRO_ESTUDIANTE.FRMINICIO.resources
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\obj\Debug\REGISTRO_ESTUDIANTE.FRMPRINCIPAL.resources
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\bin\Debug\stdole.dll
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\obj\Debug\REGISTRO_ESTUDIANTE.R01.resources
+C:\Users\User\Desktop\c#\REGISTRO ESTUDIANTE\REGISTRO ESTUDIANTE\obj\Debug\REGISTRO_ESTUDIANTE.libro.resources
